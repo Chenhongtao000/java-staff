@@ -1,15 +1,16 @@
-## Welcome to GitHub Pages
+# 时间是一把杀猪刀
 
-You can use the [editor on GitHub](https://github.com/Chenhongtao000/java-staff/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+已经不记得是什么时候创建了这个账号，已经好几年没有写东西了，颓废了，致已经失去的青春。
+珍惜未来的每一秒，做自己想做的事，想做的太多，那就一件一件来！
+## 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 设计模式
 
-```markdown
-Syntax highlighted code block
+[设计模式精讲1](http://c.biancheng.net/design_pattern/)
+[设计模式精讲2](https://www.cnblogs.com/pony1223/p/7608955.html)
+[设计模式精讲3](http://c.biancheng.net/design_pattern/)
 
 # Header 1
 ## Header 2
